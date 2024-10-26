@@ -1,0 +1,270 @@
+<ImportExportXml version="9.2.24094.222" SolutionPackageVersion="9.2" languagecode="1033" generatedBy="CrmLive" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OrganizationVersion="9.2.24094.222" OrganizationSchemaType="Standard" CRMServerServiceabilityVersion="9.2.24094.00228">
+  <SolutionManifest>
+    <UniqueName>SchoolLibrary</UniqueName>
+    <LocalizedNames>
+      <LocalizedName description="School Library" languagecode="1033" />
+    </LocalizedNames>
+    <Descriptions />
+    <Version>1.0.0.10</Version>
+    <Managed>1</Managed>
+    <Publisher>
+      <UniqueName>powerup</UniqueName>
+      <LocalizedNames>
+        <LocalizedName description="Power Up" languagecode="1033" />
+      </LocalizedNames>
+      <Descriptions />
+      <EMailAddress xsi:nil="true"></EMailAddress>
+      <SupportingWebsiteUrl xsi:nil="true"></SupportingWebsiteUrl>
+      <CustomizationPrefix>pu</CustomizationPrefix>
+      <CustomizationOptionValuePrefix>82725</CustomizationOptionValuePrefix>
+      <Addresses>
+        <Address>
+          <AddressNumber>1</AddressNumber>
+          <AddressTypeCode>1</AddressTypeCode>
+          <City xsi:nil="true"></City>
+          <County xsi:nil="true"></County>
+          <Country xsi:nil="true"></Country>
+          <Fax xsi:nil="true"></Fax>
+          <FreightTermsCode xsi:nil="true"></FreightTermsCode>
+          <ImportSequenceNumber xsi:nil="true"></ImportSequenceNumber>
+          <Latitude xsi:nil="true"></Latitude>
+          <Line1 xsi:nil="true"></Line1>
+          <Line2 xsi:nil="true"></Line2>
+          <Line3 xsi:nil="true"></Line3>
+          <Longitude xsi:nil="true"></Longitude>
+          <Name xsi:nil="true"></Name>
+          <PostalCode xsi:nil="true"></PostalCode>
+          <PostOfficeBox xsi:nil="true"></PostOfficeBox>
+          <PrimaryContactName xsi:nil="true"></PrimaryContactName>
+          <ShippingMethodCode>1</ShippingMethodCode>
+          <StateOrProvince xsi:nil="true"></StateOrProvince>
+          <Telephone1 xsi:nil="true"></Telephone1>
+          <Telephone2 xsi:nil="true"></Telephone2>
+          <Telephone3 xsi:nil="true"></Telephone3>
+          <TimeZoneRuleVersionNumber xsi:nil="true"></TimeZoneRuleVersionNumber>
+          <UPSZone xsi:nil="true"></UPSZone>
+          <UTCOffset xsi:nil="true"></UTCOffset>
+          <UTCConversionTimeZoneCode xsi:nil="true"></UTCConversionTimeZoneCode>
+        </Address>
+        <Address>
+          <AddressNumber>2</AddressNumber>
+          <AddressTypeCode>1</AddressTypeCode>
+          <City xsi:nil="true"></City>
+          <County xsi:nil="true"></County>
+          <Country xsi:nil="true"></Country>
+          <Fax xsi:nil="true"></Fax>
+          <FreightTermsCode xsi:nil="true"></FreightTermsCode>
+          <ImportSequenceNumber xsi:nil="true"></ImportSequenceNumber>
+          <Latitude xsi:nil="true"></Latitude>
+          <Line1 xsi:nil="true"></Line1>
+          <Line2 xsi:nil="true"></Line2>
+          <Line3 xsi:nil="true"></Line3>
+          <Longitude xsi:nil="true"></Longitude>
+          <Name xsi:nil="true"></Name>
+          <PostalCode xsi:nil="true"></PostalCode>
+          <PostOfficeBox xsi:nil="true"></PostOfficeBox>
+          <PrimaryContactName xsi:nil="true"></PrimaryContactName>
+          <ShippingMethodCode>1</ShippingMethodCode>
+          <StateOrProvince xsi:nil="true"></StateOrProvince>
+          <Telephone1 xsi:nil="true"></Telephone1>
+          <Telephone2 xsi:nil="true"></Telephone2>
+          <Telephone3 xsi:nil="true"></Telephone3>
+          <TimeZoneRuleVersionNumber xsi:nil="true"></TimeZoneRuleVersionNumber>
+          <UPSZone xsi:nil="true"></UPSZone>
+          <UTCOffset xsi:nil="true"></UTCOffset>
+          <UTCConversionTimeZoneCode xsi:nil="true"></UTCConversionTimeZoneCode>
+        </Address>
+      </Addresses>
+    </Publisher>
+    <RootComponents>
+      <RootComponent type="1" schemaName="contact" behavior="0" />
+      <RootComponent type="1" schemaName="pu_author" behavior="0" />
+      <RootComponent type="1" schemaName="pu_book" behavior="0" />
+      <RootComponent type="1" schemaName="pu_bookcopies" behavior="0" />
+      <RootComponent type="1" schemaName="pu_loans" behavior="0" />
+      <RootComponent type="1" schemaName="pu_tempmemberid" behavior="0" />
+      <RootComponent type="9" schemaName="pu_checkoutstatus" behavior="0" />
+      <RootComponent type="20" id="{5aad1c60-5aa5-ee11-be37-0022480bd87a}" behavior="0" />
+      <RootComponent type="29" id="{092d7c22-518a-ef11-ac20-000d3a12c562}" behavior="0" />
+      <RootComponent type="29" id="{09daeb64-b68b-ef11-ac20-000d3a12c562}" behavior="0" />
+      <RootComponent type="29" id="{4c193cda-9b90-ef11-ac20-000d3a12c562}" behavior="0" />
+      <RootComponent type="29" id="{d3eb9400-cf93-ef11-8a69-000d3a12c562}" behavior="0" />
+      <RootComponent type="61" schemaName="pu_AuthorIcon" behavior="0" />
+      <RootComponent type="61" schemaName="pu_BookIcon" behavior="0" />
+      <RootComponent type="61" schemaName="pu_BookLoanIcon" behavior="0" />
+      <RootComponent type="61" schemaName="pu_bookstock" behavior="0" />
+      <RootComponent type="62" schemaName="pu_LoansManager" behavior="0" />
+      <RootComponent type="80" schemaName="pu_LoansManager" behavior="0" />
+      <RootComponent type="300" schemaName="pu_loancheckinandcheckout_31480" behavior="0" />
+      <RootComponent type="300" schemaName="pu_loanscheckincheckout_fb218" behavior="0" />
+      <RootComponent type="300" schemaName="pu_nonresponsivecustomxyz_ef27e" behavior="0" />
+      <RootComponent type="300" schemaName="pu_setupv2_268fa" behavior="0" />
+      <RootComponent type="431" schemaName="pu_tempmemberid pu_idimage" behavior="0" />
+      <RootComponent type="432" schemaName="pu_tempmemberid" behavior="0" />
+    </RootComponents>
+    <MissingDependencies>
+      <MissingDependency>
+        <Required type="1" schemaName="adx_externalidentity" displayName="External Identity" solution="PowerPages_RuntimeCore (1.0.2407.1)">
+          <package>PowerPages_Core (1.0.2408.119)</package>
+        </Required>
+        <Dependent type="1" schemaName="contact" displayName="Contact" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="adx_invitation" displayName="Invitation" solution="PowerPages_RuntimeCore (1.0.2407.1)">
+          <package>PowerPages_Core (1.0.2408.119)</package>
+        </Required>
+        <Dependent type="1" schemaName="contact" displayName="Contact" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="adx_webformsession" displayName="Multistep Form Session" solution="PowerPages_RuntimeCore (1.0.2407.1)">
+          <package>PowerPages_Core (1.0.2408.119)</package>
+        </Required>
+        <Dependent type="1" schemaName="contact" displayName="Contact" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="kickstar_maintenancelog" displayName="Maintenance log" solution="Active" />
+        <Dependent type="29" displayName="Generate AI Action" id="{d3eb9400-cf93-ef11-8a69-000d3a12c562}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="powerpagessiteaifeedback" displayName="Power Pages Site AI Feedback" solution="PowerPages_RuntimeExtensions (1.0.2408.1)">
+          <package>PowerPages_Core (1.0.2408.119)</package>
+        </Required>
+        <Dependent type="1" schemaName="contact" displayName="Contact" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="10" schemaName="msa_contact_managingpartner" displayName="msa_contact_managingpartner" parentSchemaName="account" parentDisplayName="Account" solution="PowerPages_RuntimeCoreDependencies (1.0.2305.1)">
+          <package>PowerPages_Core (1.0.2408.119)</package>
+        </Required>
+        <Dependent type="10" schemaName="msa_contact_managingpartner" displayName="msa_contact_managingpartner" parentSchemaName="account" parentDisplayName="Account" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="10" schemaName="adx_invitation_invitecontacts" displayName="adx_invitation_invitecontacts" parentSchemaName="adx_invitation" parentDisplayName="Invitation" solution="PowerPages_RuntimeCore (1.0.2407.1)">
+          <package>PowerPages_Core (1.0.2408.119)</package>
+        </Required>
+        <Dependent type="10" schemaName="adx_invitation_invitecontacts" displayName="adx_invitation_invitecontacts" parentSchemaName="adx_invitation" parentDisplayName="Invitation" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="10" schemaName="adx_invitation_redeemedcontacts" displayName="adx_invitation_redeemedcontacts" parentSchemaName="adx_invitation" parentDisplayName="Invitation" solution="PowerPages_RuntimeCore (1.0.2407.1)">
+          <package>PowerPages_Core (1.0.2408.119)</package>
+        </Required>
+        <Dependent type="10" schemaName="adx_invitation_redeemedcontacts" displayName="adx_invitation_redeemedcontacts" parentSchemaName="adx_invitation" parentDisplayName="Invitation" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="10" schemaName="powerpagecomponent_mspp_webrole_contact" displayName="powerpagecomponent_mspp_webrole_contact" parentSchemaName="powerpagecomponent" parentDisplayName="Site Component" solution="PowerPages_RuntimeExtensions (1.0.2408.1)">
+          <package>PowerPages_Core (1.0.2408.119)</package>
+        </Required>
+        <Dependent type="10" schemaName="powerpagecomponent_mspp_webrole_contact" displayName="powerpagecomponent_mspp_webrole_contact" parentSchemaName="powerpagecomponent" parentDisplayName="Site Component" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="2" schemaName="adx_organizationname" displayName="Organization Name" parentSchemaName="contact" parentDisplayName="Contact" solution="PowerPages_RuntimeCoreDependencies (1.0.2305.1)">
+          <package>PowerPages_Core (1.0.2408.119)</package>
+        </Required>
+        <Dependent type="60" displayName="Profile Web Form (Enhanced) - Japanese" parentDisplayName="Contact" id="{01124dd8-9bff-4cc0-bb33-ea9d943c3f9f}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="2" schemaName="adx_organizationname" displayName="Organization Name" parentSchemaName="contact" parentDisplayName="Contact" solution="PowerPages_RuntimeCoreDependencies (1.0.2305.1)">
+          <package>PowerPages_Core (1.0.2408.119)</package>
+        </Required>
+        <Dependent type="60" displayName="Profile Web Form (Enhanced)" parentDisplayName="Contact" id="{bddc0100-0dbe-4562-aafe-31d08c8ab506}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="2" schemaName="adx_publicprofilecopy" displayName="Public Profile Copy" parentSchemaName="contact" parentDisplayName="Contact" solution="PowerPages_RuntimeCore (1.0.2407.1)">
+          <package>PowerPages_Core (1.0.2408.119)</package>
+        </Required>
+        <Dependent type="60" displayName="Profile Web Form (Enhanced) - Japanese" parentDisplayName="Contact" id="{01124dd8-9bff-4cc0-bb33-ea9d943c3f9f}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="2" schemaName="adx_publicprofilecopy" displayName="Public Profile Copy" parentSchemaName="contact" parentDisplayName="Contact" solution="PowerPages_RuntimeCore (1.0.2407.1)">
+          <package>PowerPages_Core (1.0.2408.119)</package>
+        </Required>
+        <Dependent type="60" displayName="Profile Web Form (Enhanced)" parentDisplayName="Contact" id="{bddc0100-0dbe-4562-aafe-31d08c8ab506}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="2" schemaName="mspp_userpreferredlcid" displayName="Preferred Language" parentSchemaName="contact" parentDisplayName="Contact" solution="PowerPages_RuntimeExtensions (1.0.2408.1)">
+          <package>PowerPages_Core (1.0.2408.119)</package>
+        </Required>
+        <Dependent type="60" displayName="Profile Web Form (Enhanced) - Japanese" parentDisplayName="Contact" id="{01124dd8-9bff-4cc0-bb33-ea9d943c3f9f}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="2" schemaName="mspp_userpreferredlcid" displayName="Preferred Language" parentSchemaName="contact" parentDisplayName="Contact" solution="PowerPages_RuntimeExtensions (1.0.2408.1)">
+          <package>PowerPages_Core (1.0.2408.119)</package>
+        </Required>
+        <Dependent type="60" displayName="Profile Web Form (Enhanced)" parentDisplayName="Contact" id="{bddc0100-0dbe-4562-aafe-31d08c8ab506}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="26" schemaName="All Contacts" displayName="All Contacts" parentSchemaName="contact" parentDisplayName="Contact" solution="msdynce_AppCommon (9.0.4.0066)" id="{0d5d377b-5e7c-47b5-bab1-a5cb8b4ac105}">
+          <package>msdynce_AppCommonAnchor (9.0.24091.10002)</package>
+        </Required>
+        <Dependent type="26" schemaName="All Contacts" displayName="All Contacts" parentSchemaName="contact" parentDisplayName="Contact" id="{0d5d377b-5e7c-47b5-bab1-a5cb8b4ac105}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="60" displayName="Profile Web Form (Enhanced) - Japanese" parentDisplayName="Contact" solution="PowerPages_RuntimeCore (1.0.2407.1)" id="{01124dd8-9bff-4cc0-bb33-ea9d943c3f9f}">
+          <package>PowerPages_Core (1.0.2408.119)</package>
+        </Required>
+        <Dependent type="60" displayName="Profile Web Form (Enhanced) - Japanese" parentDisplayName="Contact" id="{01124dd8-9bff-4cc0-bb33-ea9d943c3f9f}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="60" displayName="Contact" parentDisplayName="Contact" solution="msdynce_AppCommon (9.0.4.0066)" id="{1fed44d1-ae68-4a41-bd2b-f13acac4acfa}">
+          <package>msdynce_AppCommonAnchor (9.0.24091.10002)</package>
+        </Required>
+        <Dependent type="60" displayName="Contact" parentDisplayName="Contact" id="{1fed44d1-ae68-4a41-bd2b-f13acac4acfa}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="60" displayName="Profile Web Form (Enhanced)" parentDisplayName="Contact" solution="PowerPages_RuntimeCore (1.0.2407.1)" id="{bddc0100-0dbe-4562-aafe-31d08c8ab506}">
+          <package>PowerPages_Core (1.0.2408.119)</package>
+        </Required>
+        <Dependent type="60" displayName="Profile Web Form (Enhanced)" parentDisplayName="Contact" id="{bddc0100-0dbe-4562-aafe-31d08c8ab506}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="60" displayName="Invite Web Form" parentDisplayName="Contact" solution="PowerPages_RuntimeCore (1.0.2407.1)" id="{d6190b35-9474-4098-9698-33f6627eb3bf}">
+          <package>PowerPages_Core (1.0.2408.119)</package>
+        </Required>
+        <Dependent type="60" displayName="Invite Web Form" parentDisplayName="Contact" id="{d6190b35-9474-4098-9698-33f6627eb3bf}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="61" schemaName="AppCommon/Contact/Contact_main_system_library.js" displayName="AppCommon/Contact/Contact_main_system_library.js" solution="msdynce_AppCommon (9.0.4.0066)">
+          <package>msdynce_AppCommonAnchor (9.0.24091.10002)</package>
+        </Required>
+        <Dependent type="60" displayName="Profile Web Form (Enhanced) - Japanese" parentDisplayName="Contact" id="{01124dd8-9bff-4cc0-bb33-ea9d943c3f9f}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="61" schemaName="AppCommon/Contact/Contact_main_system_library.js" displayName="AppCommon/Contact/Contact_main_system_library.js" solution="msdynce_AppCommon (9.0.4.0066)">
+          <package>msdynce_AppCommonAnchor (9.0.24091.10002)</package>
+        </Required>
+        <Dependent type="60" displayName="Contact" parentDisplayName="Contact" id="{1fed44d1-ae68-4a41-bd2b-f13acac4acfa}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="61" schemaName="AppCommon/Contact/Contact_main_system_library.js" displayName="AppCommon/Contact/Contact_main_system_library.js" solution="msdynce_AppCommon (9.0.4.0066)">
+          <package>msdynce_AppCommonAnchor (9.0.24091.10002)</package>
+        </Required>
+        <Dependent type="60" displayName="Profile Web Form (Enhanced)" parentDisplayName="Contact" id="{bddc0100-0dbe-4562-aafe-31d08c8ab506}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="61" schemaName="mspp_web_pages.svg" displayName="mspp_web_pages.svg" solution="PowerPages_AppResources (1.0.2407.1)">
+          <package>PowerPages_Core (1.0.2408.119)</package>
+        </Required>
+        <Dependent type="62" schemaName="pu_LoansManager" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="connectionreference" displayName="new_sharedcommondataserviceforapps_6b95e" solution="Active" id.connectionreferencelogicalname="new_sharedcommondataserviceforapps_6b95e" />
+        <Dependent type="29" displayName="New Registration Form" id="{092d7c22-518a-ef11-ac20-000d3a12c562}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="connectionreference" displayName="new_sharedcommondataserviceforapps_6b95e" solution="Active" id.connectionreferencelogicalname="new_sharedcommondataserviceforapps_6b95e" />
+        <Dependent type="29" displayName="BookReview" id="{09daeb64-b68b-ef11-ac20-000d3a12c562}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="connectionreference" displayName="new_sharedcommondataserviceforapps_6b95e" solution="Active" id.connectionreferencelogicalname="new_sharedcommondataserviceforapps_6b95e" />
+        <Dependent type="29" displayName="BookDiscreption " id="{4c193cda-9b90-ef11-ac20-000d3a12c562}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="connectionreference" displayName="new_sharedcommondataserviceforapps_6b95e" solution="Active" id.connectionreferencelogicalname="new_sharedcommondataserviceforapps_6b95e" />
+        <Dependent type="29" displayName="Generate AI Action" id="{d3eb9400-cf93-ef11-8a69-000d3a12c562}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="SettingDefinition" displayName="appcopilotenabled" solution="msdyn_AppCopilotAppInfraSettings (9.1.2024093.240917054)" id.uniquename="appcopilotenabled" />
+        <Dependent type="AppSetting" displayName="parentappmoduleid.uniquename=pu_LoansManager,settingdefinitionid.uniquename=appcopilotenabled" id.parentappmoduleid.uniquename="pu_LoansManager" id.settingdefinitionid.uniquename="appcopilotenabled" />
+      </MissingDependency>
+    </MissingDependencies>
+  </SolutionManifest>
+</ImportExportXml>
