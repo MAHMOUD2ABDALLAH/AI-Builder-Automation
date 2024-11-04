@@ -34,7 +34,6 @@ ________________________________________________________________________________
 # Fifth part here we adding some of our Book discription txt translation for Two language ( Arabic And German ) Just for testing part in our Canvas app UI:
 
 ![app (1)](https://github.com/user-attachments/assets/cbf168b8-4b87-444b-9673-886a30e9440a)
-![app (11)](https://github.com/user-attachments/assets/1fd8baea-4985-4a3e-94e7-3bb1141b9f2b)
 ![app (10)](https://github.com/user-attachments/assets/b877dfbc-a258-4374-8b3c-b48516b5c86b)
 ![app (9)](https://github.com/user-attachments/assets/912c78a7-d93f-4649-9eda-4ab1bfd6fc1d)
 ![app (8)](https://github.com/user-attachments/assets/ffc604c8-ca15-45fb-b3b3-3ca7ba6b2b96)
